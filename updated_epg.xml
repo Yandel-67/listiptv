@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="darkknight">
+    <display-name>El Caballero de la Noche</display-name>
+  </channel>
+  <programme start="20250412195808 +0000" stop="20250412215808 +0000" channel="darkknight">
+    <title lang="es">El Caballero de la Noche</title>
+    <desc lang="es">Batman enfrenta al Joker, un criminal caótico que busca sumir a Gotham en la anarquía.</desc>
+    <category>Acción</category>
+    <icon src="https://img.freepik.com/psd-premium/plantilla-diseno-poster-pelicula_841014-16988.jpg?w=360" />
+    <date>2008</date>
+  </programme>
+
+  <channel id="shawshank">
+    <display-name>Sueños de libertad</display-name>
+  </channel>
+  <programme start="20250412215808 +0000" stop="20250412235808 +0000" channel="shawshank">
+    <title lang="es">Sueños de libertad</title>
+    <desc lang="es">Un banquero injustamente condenado forma un vínculo profundo con otro preso mientras encuentra esperanza durante su encierro.</desc>
+    <category>Drama</category>
+    <icon src="https://img.freepik.com/psd-premium/plantilla-diseno-poster-pelicula_841014-16988.jpg?w=360" />
+    <date>1994</date>
+  </programme>
+
+  <channel id="endgame">
+    <display-name>Avengers: Endgame</display-name>
+  </channel>
+  <programme start="20250412235808 +0000" stop="20250413015808 +0000" channel="endgame">
+    <title lang="es">Avengers: Endgame</title>
+    <desc lang="es">Después del chasquido de Thanos, los Vengadores restantes intentan restaurar el equilibrio del universo.</desc>
+    <category>Acción</category>
+    <icon src="https://img.freepik.com/psd-premium/plantilla-diseno-poster-pelicula_841014-16988.jpg?w=360" />
+    <date>2019</date>
+  </programme>
+</tv>
