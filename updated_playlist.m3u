@@ -1,66 +1,19 @@
 #EXTM3U
-#EXTGRP:Peliculas
-
-# El secuestro de 1993
-#EXTINF:7200 tvg-id="secuestr1993" tvg-name="El secuestro de 1993" tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FcmLD1G3r0Pj2zzylzlmwCGF4Qj4.jpg&w=640&q=75" group-title="Acción", El secuestro de 1993
-https://uk2y0xwy2xup0.premilkyway.com/hls2/01/05318/5i1o6utq8jgt_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=Zek2Itf_wEmOKNEZsF0HJmJUBmb4Mec25mmG23wKnjk&s=1744509444&e=129600&f=26592635&srv=pg8s50jw8kzp&i=0.4&sp=500&p1=pg8s50jw8kzp&p2=pg8s50jw8kzp&asn=27882
-
-# La Última Noche en Pacerville
-#EXTINF:7200 tvg-id="ultimanoche" tvg-name="La Última Noche en Pacerville" tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FvxwDibahr4FOcH0wGMLvYi06YUw.jpg&w=640&q=75" group-title="Acción", La Última Noche en Pacerville
-https://j7fqjm25xt.premilkyway.com/hls2/01/03082/ryehtdsuvwkw_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=iUIGLlbKBk88xM3kZIR-3jQU3eGynY0NSeHAGQkswpc&s=1744509895&e=129600&f=15412331&srv=refp3mq9fppl&i=0.4&sp=500&p1=refp3mq9fppl&p2=refp3mq9fppl&asn=27882
-
-# Una presencia extraña
-#EXTINF:7200 tvg-id="presenciaextra" tvg-name="Una presencia extraña" tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F1xbW5cNFPP716bl5YKZlxHjouiv.jpg&w=640&q=75" group-title="Terror", Una presencia extraña
-https://www.dropbox.com/scl/fi/ftibvaenni9r83ibp3gce/Admitido-1080p-DUAL-3-04-GB.mkv?rlkey=6qy1j9w57q9kkctmmsx5fnjec&st=i5vh1yix&dl=1
-
-# El Hombre de Blanco
-#EXTINF:7200 tvg-id="hombreblanco" tvg-name="El Hombre de Blanco" tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FiTaD9sqetkrgXRcnK4C0CRsYvLC.jpg&w=640&q=75" group-title="Acción", El Hombre de Blanco
-https://lvvb9d6p7p.premilkyway.com/hls2/01/04936/tn6wez0jla2i_,l,n,.urlset/index-f2-v1-a1.m3u8?t=qiAoI5LP-k3D7byTL8AfzvdpBe5d4T5D1F6bq7itKzQ&s=1744511162&e=129600&f=24680510&srv=jgy4rdrj5btf&i=0.4&sp=500&p1=jgy4rdrj5btf&p2=jgy4rdrj5btf&asn=27882
-
-# Peter Pan: La gran aventura
-#EXTINF:7200 tvg-id="peterpan" tvg-name="Peter Pan: La gran aventura" tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FxtJoP8pppOqT4rECg3E8VkvFkCj.jpg&w=640&q=75" group-title="Infantil", Peter Pan: La gran aventura
-https://qpljyz39awcoenfd.premilkyway.com/hls2/01/04917/cmrq38nsabs0_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=Of3GyXOLF5BGnJyLzwDrUx97DpyY1zbzy74jPicRarI&s=1744511408&e=129600&f=24588075&srv=jubDiYuWLQCqfHI&i=0.4&sp=500&p1=jubDiYuWLQCqfHI&p2=jubDiYuWLQCqfHI&asn=27882
-
-# El duende maldito
-#EXTINF:7200 tvg-id="duendemaldito" tvg-name="El duende maldito" tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FxDyz1WweBvod5V0KC4BBLO0vlfS.jpg&w=640&q=75" group-title="Terror", El duende maldito
-https://www.dropbox.com/scl/fi/0lrx05ajma01t3ihnv9t3/509259.MKV?rlkey=8bl7ewcenv6xi720cw8wokyog&st=6piqr7ul&dl=1
-
-# El duende maldito 5: En el barrio
-#EXTINF:7200 tvg-id="duendemaldito5" tvg-name="El duende maldito 5: En el barrio" tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F5XeEgLSzQU6fhbj8kZO7x7l7iV5.jpg&w=640&q=75" group-title="Terror", El duende maldito 5: En el barrio
-https://27u55xdzmm9q.premilkyway.com/hls2/01/03495/pdbu1o3skctz_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=AGB9wLpG_MjXnTU1lNY6naDohYJuVMa06JYfQpLcQng&s=1744512292&e=129600&f=17476269&srv=dwjdqozeoybz&i=0.4&sp=500&p1=dwjdqozeoybz&p2=dwjdqozeoybz&asn=27882
-
-# El duende maldito 6: De vuelta al vecindario
-#EXTINF:7200 tvg-id="duendemaldito6" tvg-name="El duende maldito 6: De vuelta al vecindario" tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FkE8iiTy0brxOcFhB4jmMa1jrjWm.jpg&w=640&q=75" group-title="Terror", El duende maldito 6: De vuelta al vecindario
-https://wnsa7jyhmnmt12.premilkyway.com/hls2/01/03495/gmk01qvmub0k_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=lj_dia8f0Q9pe_FROQmKCePPTzvdE7_SeFYWHxtFFIM&s=1744512438&e=129600&f=17476329&srv=7npihg0ee2yuu&i=0.4&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=27882
-
-# Aceptados
-#EXTINF:7200 tvg-id="aceptados" tvg-name="Aceptados" tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fed5W7iDp8BINUPw0bXPStxGxJOh.jpg&w=640&q=75" group-title="Comedia", Aceptados
-https://www.dropbox.com/scl/fi/ftibvaenni9r83ibp3gce/Admitido-1080p-DUAL-3-04-GB.mkv?rlkey=6qy1j9w57q9kkctmmsx5fnjec&st=i5vh1yix&dl=1
-
-# Cloud Atlas: La Red Invisible
-#EXTINF:7200 tvg-id="cloudatlas" tvg-name="Cloud Atlas: La Red Invisible" tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fxx1d4FKmtL16r20kyVVoHMFIl96.jpg&w=640&q=75" group-title="Ciencia Ficción", Cloud Atlas: La Red Invisible
-https://be4242.rcr52.ams03.cdn255.com/hls2/01/05827/gmdt54w0kfet_n/index-v1-a1.m3u8?t=bf-5ZBuODisB6_N6G1H6fuF16lGb0RePSKahx1aKd0o&s=1744517741&e=10800&f=31318442&srv=09&asn=27882&sp=4000&p=
-
-# Sin Escape
-#EXTINF:7200 tvg-id="sinescape" tvg-name="Sin Escape" tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fxme9loDZEpsyfLTGupbMFNAmFrZ.jpg&w=640&q=75" group-title="Acción", Sin Escape
-https://sedrfmwrpjxatem5.premilkyway.com/hls2/01/03082/dx4uvsvz7uba_,n,h,.urlset/index-f2-v1-a1.m3u8?t=TUbdthj-B9M4V1A4AnQ5jThwd6LG8_HacxrRnTxMVuw&s=1744517978&e=129600&f=15412530&srv=zukkcg9r2ba2&i=0.4&sp=500&p1=zukkcg9r2ba2&p2=zukkcg9r2ba2&asn=27882
-
-# Azrael
-#EXTINF:7200 tvg-id="azrael" tvg-name="Azrael" tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F8wClkxWh2mx5KXrI706dehtHvsZ.jpg&w=640&q=75" group-title="Terror", Azrael
-https://s0mlxzpt0qgc8.premilkyway.com/hls2/01/08198/3ztf0zifvf9l_,l,n,.urlset/index-f2-v1-a1.m3u8?t=4XkzXzGXKazr8Vvu12yLESJrKfUpkW0Jd4ZhPtZbNmE&s=1744520185&e=129600&f=40993076&srv=81cjh64633yue&i=0.4&sp=500&p1=81cjh64633yue&p2=81cjh64633yue&asn=27882
-
-# El Golpe del Siglo
-#EXTINF:7200 tvg-id="golpe" tvg-name="El Golpe del Siglo" tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FyUwqfJ1us0jtyuPiV2gEItqzKdK.jpg&w=640&q=75" group-title="Acción", El Golpe del Siglo
-https://cxhkzbihnc.premilkyway.com/hls2/01/03098/ly6fk0ufhrz4_,n,h,.urlset/index-f2-v1-a1.m3u8?t=gO6Tilmk-lKnvh89xVP1zhLwLWe01yFFoKKqZqwRGW4&s=1744520609&e=129600&f=15492095&srv=KsLkgBWej56z&i=0.4&sp=500&p1=KsLkgBWej56z&p2=KsLkgBWej56z&asn=27882
-
-# Madre Oscura
-#EXTINF:7200 tvg-id="madreoscura" tvg-name="Madre Oscura" tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fi9ErzjpaE6BOHajCvcKx9fycemT.jpg&w=640&q=75" group-title="Terror", Madre Oscura
-https://cdn-lkfu3vxylrrnr9ym.orbitcache.com/engine/hls2/01/08528/afo8ry7epufe_,n,.urlset/index-v1-a1.m3u8?t=MTjer2O46nzOVaV1qOXxKjpu_H2n2qHHSHA2K_R-Rw8&s=1744523552&e=14400&f=42641937&node=+fEPjZH+THPQokirfO60w0lgzeNCGp1G2u3nJu8y0+4=&i=181.188&sp=2500&asn=27882&q=n
-
-# Camilo
-#EXTINF:7200 tvg-id="camilo" tvg-name="Camilo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Camilo_in_2019.jpg" group-title="Musical", Camilo
-https://www.dropbox.com/scl/fi/9t0qa48ggl46eblq4ks79/Admitido-1080p-DUAL-3-04-GB.mkv?rlkey=vub1uoen3mtcemrx570upk7fn&st=bu1a0k6f&dl=1
-
-# El duende maldito
-#EXTINF:7200 tvg-id="duendemaldito" tvg-name="El duende maldito" tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FxDyz1WweBvod5V0KC4BBLO0vlfS.jpg&w=640&q=75" group-title="Terror", El duende maldito
-https://drive.google.com/uc?id=1UZXPEP8qfsdSG-Z6KTyWFTSCUnDlKGcZ&export=download
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1TCGGpJT8aR5yO3j8In1rxbi-i2hc8PV8" group-title="CINEMAWILIX",Una Presencia Extraña
+https://www.dropbox.com/scl/fi/6esqf538gaeuxgyeei05y/unapresencia.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkxNzU3OTg0Nl5BMl5BanBnXkFtZTcwNDY5MDY2Ng@@._V1_.jpg" group-title="CINEMAWILIX",Sin Escape
+https://www.dropbox.com/scl/fi/0gdyqektm8vtd6o7brq4d/Sin-cape1.mkv?dl=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3QxUfYlto7Sycxdt7BXA50dJVmA4tM_huGw&s" group-title="CINEMAWILIX",El Duende Maldito 6
+https://www.dropbox.com/scl/fi/3crkqo3lmqk1n2xsprqou/lepreco-6.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/FBHx5Uk_Dsb5QXqMzHY6UNCcNlUQqjQRERAnc_D7waD-5CU_DjDkLuK8rAPzErP6f0E=w240-h480-rw" group-title="CINEMAWILIX",El Duende Maldito 5
+https://www.dropbox.com/scl/fi/9wqnry8dvcmngxvl9x4za/lepreco-5.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/listofdeaths/images/0/04/Dolls_1987_poster.jpg/revision/latest?cb=20221220223349" group-title="CINEMAWILIX",Muñecos Diabólicos
+https://www.dropbox.com/scl/fi/3mnswfmxxumf0ag1p8hhw/dolls.mp4?dl=1
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/a17d5ecffd8a20ce54d9afeef42e342b47adf96d85a6659082f02f25eab5c31c.jpg" group-title="CINEMAWILIX",Azrael
+https://www.dropbox.com/scl/fi/niei1kuysaw9motj7nd42/Azrael-1080p-DUAL-4.1-GB.mkv?dl=1
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/66079716/s718/accepted-admitidos.jpg" group-title="CINEMAWILIX",Admitido
+https://www.dropbox.com/scl/fi/ftibvaenni9r83ibp3gce/Admitido-1080p-DUAL-3-04-GB.mkv?dl=1
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjgxODMwODU5MF5BMl5BanBnXkFtZTYwMTU5NDM5._V1_.jpg" group-title="CINEMAWILIX",El Duende Maldito
+https://www.dropbox.com/scl/fi/0lrx05ajma01t3ihnv9t3/509259.MKV?dl=1
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGNjYWVkZGItZTNmNS00MGNkLWI2ZjEtMTIzNzAwNmIxMDRhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="CINEMAWILIX",Peter Pan
+https://www.dropbox.com/scl/fi/pu8956jzr5rriah41odv6/285756-ff3b40dc-05ce-4a4f-bd0e-565c74ea42f1-odvd-2507078-streamwish.mp4?dl=1
