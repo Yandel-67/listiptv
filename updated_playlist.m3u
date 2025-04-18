@@ -1,11 +1,5 @@
 #EXTM3U
 
-# ==== 🎬 UNA PRESENCIA EXTRAÑA ====
-
-#EXTINF:-1, Película de Acción
-# Sinopsis: Un grupo de héroes lucha contra el mal.
-https://www.dropbox.com/scl/fi/6esqf538gaeuxgyeei05y/unapresencia.mp4?rlkey=1xneh2xi54wwdc5ou2tn5i6kl&st=qn8ls28y&dl=1
-
 # ==== 🎬 SIN ESCAPE ====
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkxNzU3OTg0Nl5BMl5BanBnXkFtZTcwNDY5MDY2Ng@@._V1_.jpg" group-title="CINEMAWILIX",Sin Escape
 https://www.dropbox.com/scl/fi/0gdyqektm8vtd6o7brq4d/Sin-cape1.mkv?rlkey=muomj9m61aqc84cfv0bt50ou2&st=p2uyhbo1&dl=1
@@ -49,3 +43,11 @@ https://www.dropbox.com/scl/fi/e6qm9nkuwo8qq5auq7fnd/El-Dia-Que-La-Tierra-Se-Det
 # ==== 🎬 El Ritual Maldito ====
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6hxJXJcnVZXY3MKzpZZTZLyeQ5swiBNOzMDNOtyOVLtDzncO3FBOOEX_B24M8aBgo9gaqgWNBNgVw1zie3Fd3k-LGast0crT8jgORjEJrQaDlC5m1y_TQm9chBwNhyphenhyphenCEYcGwqhRpNnp59aJoEjfvshM8llbU3HSkvbPATrlj6cQ3-nDMCnOeS8vu_NEY/s320/POSTER%201.png" group-title="CINEMAWILIX",El Rotual Maldito
 https://www.dropbox.com/scl/fi/4cab3p3jok2389wkfnz6p/ritmaldo.mp4?rlkey=bywhj1ub50kt8l6640w7zssiy&st=koq2qhs4&dl=1
+
+# ==== 🎬 El Templo Maldito ====
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/310475195/s332/pee-nak-4" group-title="CINEMAWILIX",El Templo Maldito
+https://www.dropbox.com/scl/fi/mpswyjrg5j1y1uaj2pex7/EL-Templo-Maldito.mp4?rlkey=69n5g24r321rmaxop1xxllezp&st=q92a0n9r&dl=1
+
+
+
+
