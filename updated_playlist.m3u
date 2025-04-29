@@ -191,8 +191,7 @@ http://archive.org/download/X4564Z9Z/CEDEMA89.mkv
 
 
 
-#EXTM3U
-PELICULAS DEL MES DE SEPTIEMBRE 2023
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2MSvDYn/TALK.jpg",Talk to me (2023)
 https://dl.dropbox.com/scl/fi/tfudbvzuvm62umij54aut/T4LKT0M3.mp4?rlkey=cwly1qsak4zins8rtsqd99wzn
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mh6CDLz/nun2.jpg",La Monja II (2023)
@@ -885,27 +884,26 @@ http://archive.org/download/mio71_yopmail_3/3.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MRM03tH/rgg.jpg",¡Está Vivo!: El monstruo está vivo
 http://archive.org/download/mio71_yopmail_3/1.mp4
 
-#EXTINF:-1 group-title="" tvg-logo="https://pics.filmaffinity.com/twisters-258055631-large.jpg", Tornado 2024
+#EXTINF:-1 group-title="" tvg-logo="https://pics.filmaffinity.com/Twisters-941584698-large.jpg", Tornado 2024
 https://archive.org/download/457626384-3837006406554626-8111903668788379276-n/Tornados.2024.720p-Dual-Lat.mkv
 #EXTINF:-1 group-title="" tvg-logo="https://pics.filmaffinity.com/despicable_me_4-802312771-large.jpg", Mi villano favorito 4
 https://archive.org/download/457626384-3837006406554626-8111903668788379276-n/Mi.villano.favorito.4.2024.720p-Dual-Lat.mkv
-#EXTINF:-1 group-title="" tvg-logo="https://pics.filmaffinity.com/fly_me_to_the_moon-279859131-large.jpg", La otra cara de la luna
+#EXTINF:-1 group-title="" tvg-logo="https://image.tmdb.org/t/p/original/fgtQSViKSa0bQKHGvrDFfwxMZE6.jpg", La otra cara de la luna
 https://archive.org/download/457626384-3837006406554626-8111903668788379276-n/La.otra.cara.de.la.Luna.2024.720p-Dual-Lat.mkv
 #EXTINF:-1 group-title="" tvg-logo="https://pics.filmaffinity.com/the_garfield_movie-947420160-large.jpg", Garfield fuera de casa
 https://archive.org/download/457626384-3837006406554626-8111903668788379276-n/Garfield.Fuera.de.Casa.2024.720p-Dual-Lat.mkv
-#EXTINF:-1 group-title="" tvg-logo="https://pics.filmaffinity.com/bad_boys_ride_or_die-651037313-large.jpg", Bad Boys 2024
+#EXTINF:-1 group-title="" tvg-logo="https://cdn.moviefone.com/image-assets/573435/oGythE98MYleE6mZlGs5oBGkux1.jpg?d=360x540&q=50", Bad Boys 2024
 https://archive.org/download/457626384-3837006406554626-8111903668788379276-n/Bad.Boys.Hasta.la.muerte.2024.720p-Dual-Lat.mkv
 #EXTINF:-1 group-title="" tvg-logo="https://pics.filmaffinity.com/inside_out_2-365634749-large.jpg", Intesamente 2
 https://archive.org/download/457626384-3837006406554626-8111903668788379276-n/IntensaMente.2.2024.720p-Dual-Lat.mkv
 
-#EXTINF:-1 group-title="" tvg-logo="https://pics.filmaffinity.com/tesla-418618621-large.jpg", Tesla: El hombre eléctrico 
+#EXTINF:-1 group-title="" tvg-logo="https://play-lh.googleusercontent.com/aqxYMtJPcG7fNUytJpd3jea2ens_W2MS4dylI4gqsi_tORKJ8hA3Qfkiy8FYgMp932XwMkAqQC2TecqUe2IA", Tesla: El hombre eléctrico 
 https://archive.org/download/captura-de-pantalla-2024-03-31-13-42-12/Tesla.2020.720p-Dual-Lat.mkv
 #EXTINF:-1 group-title="" tvg-logo="https://pics.filmaffinity.com/ricky_stanicky-916228200-large.jpg", Ricky Stanicky: El impostor 
 https://archive.org/download/captura-de-pantalla-2024-03-31-13-42-12/Ricky.Stanicky.El.impostor.2024.720p-Dual-Lat.mkv
-#EXTINF:-1 group-title="" tvg-logo="https://pics.filmaffinity.com/ro_gi_wan-541478813-large.jpg", Me llamo Loh Kiwan 
-https://archive.org/download/captura-de-pantalla-2024-03-31-13-42-12/Me.llamo.Loh.Ki.wan.2024.720p-Dual-Lat.mkv
-#EXTINF:-1 group-title="" tvg-logo="https://pics.filmaffinity.com/the_passion_of_the_christ-211498441-large.jpg", La pasión de Cristo 
-https://archive.org/download/captura-de-pantalla-2024-03-31-13-42-12/La.pasi%C3%B3n.de.Cristo.2004.720p-Dual-Lat.mkv
+
+#EXTINF:-1 group-title="" tvg-logo="https://pics.filmaffinity.com/La_pasiaon_de_Cristo-460940111-large.jpg", La pasión de Cristo 
+https://archive.org/download/la-pasion-de-cristo-the-passion-of-the-christ-pelicula-2004-hxiexxoh-zd-4s-4j-8-bzvsref-xf-s/LA-PASION-DE-CRISTO-THE-PASSION-OF-THE-CHRIST-PELICULA-2004-HXiexxohZd4s4j8BZVsrefXfS.mp4
 #EXTINF:-1 group-title="" tvg-logo="https://pics.filmaffinity.com/the_thundermans_return-146290421-large.jpg", El retorno de los Thundermans 
 https://archive.org/download/captura-de-pantalla-2024-03-31-13-42-12/El.retorno.de%20Los.Thundermans.2024.720p-Dual-Lat.mkv
 #EXTINF:-1 group-title="" tvg-logo="https://pics.filmaffinity.com/drive_away_dolls-940271193-large.jpg", Dos chicas a la fuga 
