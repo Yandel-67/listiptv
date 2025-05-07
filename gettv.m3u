@@ -1,47 +1,47 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="canal1" tvg-name="DORAEMON" tvg-logo="https://png.pngtree.com/png-vector/20220625/ourmid/pngtree-tv-logo-design-flat-icon-illustration-design-png-image_5431204.png" group-title="24/7",DORAEMON 24/7
+#EXTINF:-1 tvg-id="canal1" tvg-name="DORAEMON" tvg-logo="https://www.pngarts.com/files/8/Doraemon-Logo-PNG-Transparent-Image.png" group-title="24/7",DORAEMON 24/7
 http://hidra.live/live/eufTQNgNXv/ojxBLcjY/333139.ts
-#EXTINF:-1 tvg-id="canal1" tvg-name="Canal 1" group-title="24/7", Canal 1
+#EXTINF:-1 tvg-id="canal1" tvg-name="Canal 1" tvg-logo="https://w7.pngwing.com/pngs/322/192/png-transparent-alf-television-show-melmac-extraterrestrial-life-frank-always-sunny-television-dog-like-mammal-dog-breed-thumbnail.png" group-title="24/7", ALF 24/7
 http://hidra.live/live/eufTQNgNXv/ojxBLcjY/333134.ts
-#EXTINF:-1 tvg-id="canal2" tvg-name="Canal 2" group-title="24/7", Canal 2
+#EXTINF:-1 tvg-id="canal2" tvg-name="Canal 2" tvg-logo="https://cdn.worldvectorlogo.com/logos/avesham-movie-logo.svg" group-title="24/7", CINAMA DRAMA (WILIX 24/7)
 http://hidra.live/live/eufTQNgNXv/ojxBLcjY/333122.ts
-#EXTINF:-1 tvg-id="canal3" tvg-name="Canal 3" group-title="24/7", Canal 3
+#EXTINF:-1 tvg-id="canal3" tvg-name="Canal 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Malcolm_in_the_Middle_logo.svg" group-title="24/7", MALCOM IN THE MIDDLE 24/7
 http://hidra.live/live/eufTQNgNXv/ojxBLcjY/58317.ts
-#EXTINF:-1 tvg-id="canal4" tvg-name="Canal 4" group-title="24/7", Canal 4
+#EXTINF:-1 tvg-id="canal4" tvg-name="Canal 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/El_Chavo_%28simple_logo%29.png/revision/latest/scale-to-width-down/300?cb=20200225033448&path-prefix=es" group-title="24/7", EL CHAVO DEL 8 24/7
 http://hidra.live/live/eufTQNgNXv/ojxBLcjY/58278.ts
-#EXTINF:-1 tvg-id="canal5" tvg-name="Canal 5" group-title="24/7", Canal 5
+#EXTINF:-1 tvg-id="canal5" tvg-name="Canal 5" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Dragon-Ball-Symbol.png" group-title="24/7", DRAGON BALL 24/7
 http://hidra.live/live/eufTQNgNXv/ojxBLcjY/58105.ts
-#EXTINF:-1 tvg-id="canal6" tvg-name="Canal 6" group-title="24/7", Canal 6
+#EXTINF:-1 tvg-id="canal6" tvg-name="Canal 6" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/050/699/896/small_2x/movie-night-illustration-cinema-poster-concept-banner-design-for-movie-theater-png.png" group-title="24/7", MOVIE CENTER 24/7
 http://hidra.live/live/eufTQNgNXv/ojxBLcjY/58067.ts
-#EXTINF:-1 tvg-id="canal7" tvg-name="Canal 7" group-title="24/7", Canal 7
+#EXTINF:-1 tvg-id="canal7" tvg-name="Canal 7" tvg-logo="https://e7.pngegg.com/pngimages/419/220/png-clipart-logo-marvel-comics-marvel-entertainment-marvel-studios-others-comics-avengers-thumbnail.png" group-title="24/7", CINE MARVEL 24/7
 http://hidra.live/live/eufTQNgNXv/ojxBLcjY/58068.ts
-#EXTINF:-1 tvg-id="canal8" tvg-name="Canal 8" group-title="24/7", Canal 8
+#EXTINF:-1 tvg-id="canal8" tvg-name="Canal 8" tvg-logo="https://www.clipartmax.com/png/middle/187-1872066_vive-en-una-pi%C3%B1a-debajo-del-mar-bob-esponja-logo-png.png" group-title="24/7", BOB ESPONJA 24/7
 http://hidra.live/live/eufTQNgNXv/ojxBLcjY/58076.ts
-#EXTINF:-1 tvg-id="canal9" tvg-name="Canal 9" group-title="24/7", Canal 9
+#EXTINF:-1 tvg-id="canal9" tvg-name="Canal 9" tvg-logo="https://i.pinimg.com/474x/88/d0/23/88d023b59e5e180f453823ff1899e507.jpg" group-title="24/7", PAJARO LOCO 24/7
 http://hidra.live/live/eufTQNgNXv/ojxBLcjY/58086.ts
-#EXTINF:-1 tvg-id="canal10" tvg-name="Canal 10" group-title="24/7", Canal 10
+#EXTINF:-1 tvg-id="canal10" tvg-name="Canal 10" tvg-logo="https://marcelinethinks.wordpress.com/wp-content/uploads/2015/11/anime-logo-square.png" group-title="24/7", MOVIES ANIME 24/7
 http://hidra.live/live/eufTQNgNXv/ojxBLcjY/58069.ts
-#EXTINF:-1 tvg-id="canal11" tvg-name="Canal 11" group-title="24/7", Canal 11
+#EXTINF:-1 tvg-id="canal11" tvg-name="Canal 11" tvg-logo="https://w7.pngwing.com/pngs/698/15/png-transparent-cartoon-network-drawing-others-cartoon-character-hand-fictional-character.png" group-title="24/7", JOHNNY BRAVO 24/7
 http://hidra.live/live/eufTQNgNXv/ojxBLcjY/49257.ts
-#EXTINF:-1 tvg-id="canal12" tvg-name="Canal 12" group-title="24/7", Canal 12
+#EXTINF:-1 tvg-id="canal12" tvg-name="Canal 12" tvg-logo="https://w7.pngwing.com/pngs/224/410/png-transparent-tiny-toon-adventures-buster-s-hidden-treasure-plucky-duck-montana-max-cartoon-looney-tunes-tiny-toon-adventures-buster-busts-loose-thumbnail.png" group-title="24/7", TINY TONS 24/7
 http://hidra.live/live/eufTQNgNXv/ojxBLcjY/50642.ts
-#EXTINF:-1 tvg-id="canal13" tvg-name="Canal 13" group-title="24/7", Canal 13
+#EXTINF:-1 tvg-id="canal13" tvg-name="Canal 13" tvg-logo="https://w7.pngwing.com/pngs/899/75/png-transparent-treehouse-of-horror-xviii-logo-the-simpsons-tapped-out-youtube-youtube-text-logo-banner.png" group-title="24/7", LOS SIMPSONS 24/7 (CASITA DEL HORROR)
 http://hidra.live/live/eufTQNgNXv/ojxBLcjY/50617.ts
-#EXTINF:-1 tvg-id="canal14" tvg-name="Canal 14" group-title="24/7", Canal 14
+#EXTINF:-1 tvg-id="canal14" tvg-name="Canal 14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/2560px-The_Simpsons_yellow_logo.svg.png" group-title="24/7", LOS SIMPSONS 24/7
 http://hidra.live/live/eufTQNgNXv/ojxBLcjY/50618.ts
-#EXTINF:-1 tvg-id="canal15" tvg-name="Canal 15" group-title="24/7", Canal 15
+#EXTINF:-1 tvg-id="canal15" tvg-name="Canal 15" tvg-logo="https://w7.pngwing.com/pngs/756/254/png-transparent-television-channel-cartoon-retro-tv-miscellaneous-television-logo-thumbnail.png" group-title="24/7", CARICATURAS RETRO 24/7
 http://hidra.live/live/eufTQNgNXv/ojxBLcjY/50589.ts
-#EXTINF:-1 tvg-id="canal16" tvg-name="Canal 16" group-title="24/7", Canal 16
+#EXTINF:-1 tvg-id="canal16" tvg-name="Canal 16" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWBdHYMAKhn4Wzk3tdM6iHR-ftiGKyE92ozA&s" group-title="24/7", CINE ACCION 24/7
 http://hidra.live/live/eufTQNgNXv/ojxBLcjY/333172.ts
-#EXTINF:-1 tvg-id="canal17" tvg-name="Canal 17" group-title="24/7", Canal 17
+#EXTINF:-1 tvg-id="canal17" tvg-name="Canal 17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Looney_Tunes_2024.svg/800px-Looney_Tunes_2024.svg.png" group-title="24/7", LOONEY TUNES 24/7
 http://hidra.live/live/eufTQNgNXv/ojxBLcjY/333177.ts
-#EXTINF:-1 tvg-id="canal18" tvg-name="Canal 18" group-title="24/7", Canal 18
+#EXTINF:-1 tvg-id="canal18" tvg-name="Canal 18" tvg-logo="https://e1.pngegg.com/pngimages/427/624/png-clipart-dinosaurs-series-and-season-folder-icons-dinosaurs-thumbnail.png" group-title="24/7", DINOSAURIOS 24/7
 http://hidra.live/live/eufTQNgNXv/ojxBLcjY/333176.ts
-#EXTINF:-1 tvg-id="canal19" tvg-name="Canal 19" group-title="24/7", Canal 19
+#EXTINF:-1 tvg-id="canal19" tvg-name="Canal 19" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Looney_Tunes_2024.svg/800px-Looney_Tunes_2024.svg.png" group-title="24/7", LOONEY TUNES 24/7
 http://hidra.live/live/eufTQNgNXv/ojxBLcjY/333181.ts
-#EXTINF:-1 tvg-id="canal20" tvg-name="Canal 20" group-title="24/7", Canal 20
+#EXTINF:-1 tvg-id="canal20" tvg-name="Canal 20" tvg-logo="https://w7.pngwing.com/pngs/995/853/png-transparent-futurama-worlds-of-tomorrow-philip-j-fry-bender-futurama-season-2-the-lesser-of-two-evils-futurama-heroes-cartoon-fictional-character-thumbnail.png" group-title="24/7", FUTURAMA 24/7
 http://hidra.live/live/eufTQNgNXv/ojxBLcjY/337207.ts
-#EXTINF:-1 tvg-id="canal21" tvg-name="Canal 21" group-title="24/7", Canal 21
+#EXTINF:-1 tvg-id="canal21" tvg-name="Canal 21" tvg-logo="https://c0.klipartz.com/pngpicture/288/103/gratis-png-kowalski-patron-madagascar-escritorio-pelicula-pinguinos-de-madagascar-thumbnail.png" group-title="24/7", PINGUINOS DE MADAGASCAR 24/7
 http://hidra.live/live/eufTQNgNXv/ojxBLcjY/50628.ts
-#EXTINF:-1 tvg-id="canal22" tvg-name="Canal 22" group-title="24/7", Canal 22
+#EXTINF:-1 tvg-id="canal22" tvg-name="Canal 22" tvg-logo="https://i.pinimg.com/564x/9b/cc/61/9bcc61a92a2a4c87f4897b43c93896b0.jpg" group-title="24/7", 31 MINUTOS 247
 http://hidra.live/live/eufTQNgNXv/ojxBLcjY/50635.ts
