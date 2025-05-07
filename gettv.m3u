@@ -1,6 +1,47 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="canal1" tvg-name="Prueba" tvg-logo="https://png.pngtree.com/png-vector/20220625/ourmid/pngtree-tv-logo-design-flat-icon-illustration-design-png-image_5431204.png" group-title="Noticias",Canal 1
+#EXTINF:-1 tvg-id="canal1" tvg-name="DORAEMON" tvg-logo="https://png.pngtree.com/png-vector/20220625/ourmid/pngtree-tv-logo-design-flat-icon-illustration-design-png-image_5431204.png" group-title="24/7",DORAEMON 24/7
 http://hidra.live/live/eufTQNgNXv/ojxBLcjY/333139.ts
-#EXTINF:-1 tvg-id="canal2" tvg-name="Canal 2" tvg-logo="https://url-del-logo-canal2.png" group-title="Deportes",Canal 2
-http://url-del-streaming-canal2.com
-
+#EXTINF:-1 tvg-id="canal1" tvg-name="Canal 1" group-title="24/7", Canal 1
+http://hidra.live/live/eufTQNgNXv/ojxBLcjY/333134.ts
+#EXTINF:-1 tvg-id="canal2" tvg-name="Canal 2" group-title="24/7", Canal 2
+http://hidra.live/live/eufTQNgNXv/ojxBLcjY/333122.ts
+#EXTINF:-1 tvg-id="canal3" tvg-name="Canal 3" group-title="24/7", Canal 3
+http://hidra.live/live/eufTQNgNXv/ojxBLcjY/58317.ts
+#EXTINF:-1 tvg-id="canal4" tvg-name="Canal 4" group-title="24/7", Canal 4
+http://hidra.live/live/eufTQNgNXv/ojxBLcjY/58278.ts
+#EXTINF:-1 tvg-id="canal5" tvg-name="Canal 5" group-title="24/7", Canal 5
+http://hidra.live/live/eufTQNgNXv/ojxBLcjY/58105.ts
+#EXTINF:-1 tvg-id="canal6" tvg-name="Canal 6" group-title="24/7", Canal 6
+http://hidra.live/live/eufTQNgNXv/ojxBLcjY/58067.ts
+#EXTINF:-1 tvg-id="canal7" tvg-name="Canal 7" group-title="24/7", Canal 7
+http://hidra.live/live/eufTQNgNXv/ojxBLcjY/58068.ts
+#EXTINF:-1 tvg-id="canal8" tvg-name="Canal 8" group-title="24/7", Canal 8
+http://hidra.live/live/eufTQNgNXv/ojxBLcjY/58076.ts
+#EXTINF:-1 tvg-id="canal9" tvg-name="Canal 9" group-title="24/7", Canal 9
+http://hidra.live/live/eufTQNgNXv/ojxBLcjY/58086.ts
+#EXTINF:-1 tvg-id="canal10" tvg-name="Canal 10" group-title="24/7", Canal 10
+http://hidra.live/live/eufTQNgNXv/ojxBLcjY/58069.ts
+#EXTINF:-1 tvg-id="canal11" tvg-name="Canal 11" group-title="24/7", Canal 11
+http://hidra.live/live/eufTQNgNXv/ojxBLcjY/49257.ts
+#EXTINF:-1 tvg-id="canal12" tvg-name="Canal 12" group-title="24/7", Canal 12
+http://hidra.live/live/eufTQNgNXv/ojxBLcjY/50642.ts
+#EXTINF:-1 tvg-id="canal13" tvg-name="Canal 13" group-title="24/7", Canal 13
+http://hidra.live/live/eufTQNgNXv/ojxBLcjY/50617.ts
+#EXTINF:-1 tvg-id="canal14" tvg-name="Canal 14" group-title="24/7", Canal 14
+http://hidra.live/live/eufTQNgNXv/ojxBLcjY/50618.ts
+#EXTINF:-1 tvg-id="canal15" tvg-name="Canal 15" group-title="24/7", Canal 15
+http://hidra.live/live/eufTQNgNXv/ojxBLcjY/50589.ts
+#EXTINF:-1 tvg-id="canal16" tvg-name="Canal 16" group-title="24/7", Canal 16
+http://hidra.live/live/eufTQNgNXv/ojxBLcjY/333172.ts
+#EXTINF:-1 tvg-id="canal17" tvg-name="Canal 17" group-title="24/7", Canal 17
+http://hidra.live/live/eufTQNgNXv/ojxBLcjY/333177.ts
+#EXTINF:-1 tvg-id="canal18" tvg-name="Canal 18" group-title="24/7", Canal 18
+http://hidra.live/live/eufTQNgNXv/ojxBLcjY/333176.ts
+#EXTINF:-1 tvg-id="canal19" tvg-name="Canal 19" group-title="24/7", Canal 19
+http://hidra.live/live/eufTQNgNXv/ojxBLcjY/333181.ts
+#EXTINF:-1 tvg-id="canal20" tvg-name="Canal 20" group-title="24/7", Canal 20
+http://hidra.live/live/eufTQNgNXv/ojxBLcjY/337207.ts
+#EXTINF:-1 tvg-id="canal21" tvg-name="Canal 21" group-title="24/7", Canal 21
+http://hidra.live/live/eufTQNgNXv/ojxBLcjY/50628.ts
+#EXTINF:-1 tvg-id="canal22" tvg-name="Canal 22" group-title="24/7", Canal 22
+http://hidra.live/live/eufTQNgNXv/ojxBLcjY/50635.ts
