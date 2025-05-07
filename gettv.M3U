@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220625/ourmid/pngtree-tv-logo-design-flat-icon-illustration-design-png-image_5431204.png"Prueb
+http://hidra.live/live/eufTQNgNXv/ojxBLcjY/333139.ts
+#EXTINF:-1 tvg-logo="https://www.example.com/logo2.jpg" group-title="Películas",60 minutos
+https://www.example.com/60_minutos_2024.mkv
